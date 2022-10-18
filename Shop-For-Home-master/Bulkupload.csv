@@ -1,0 +1,22 @@
+ProductId,ProductName,Price,Stock,Description,ProductIcon,CategoryType
+A750,Galaxy Book Go,50.5,70,"35.56cm (14""), Snapdragon 7c, 4GB",assets/images/products/mypics/70.jpg,0
+A751,Inspiron 14 5410 Laptop,47.6,80,"11th Gen Intel® Core™ i3-1125G4 (8 MB cache, 4 cores, 8 threads, up to 3.70 GHz Turbo)",assets/images/products/mypics/71.jpg,0
+A752,Galaxy Tab S6 Lite,30.2,50,Wi-Fi Tab S6 Lite with Exynos Processor Pink,assets/images/products/mypics/72.jpg,2
+A753,OnePlus Nord 2T 5G,45.2,40," (Gray Shadow, 8GB RAM, 128GB Storage)",assets/images/products/mypics/73.jpg,2
+A754,Galaxy Buds2,10.2,20,The lightest earbuds ,assets/images/products/mypics/74.jpg,2
+A755,Boat Rockerz 255 Pro,10,25,"In-Ear Wireless Earphone with Mic (Voice Assistant, Active Black)",assets/images/products/mypics/75.jpg,2
+A756,JBL C50HI,12,60,"Wired in Ear Headphones with Mic, One Button Multi-Function Remote",assets/images/products/mypics/76.jpg,2
+A757,Satchel Handbag,15.2,45,Lavie Quilty Women'S Medium Satchel Handbag,assets/images/products/mypics/77.jpg,3
+A758,Crossbody Bag,14,66,Olive & Mustard - Trapeze Crossbody Bag,assets/images/products/mypics/78.jpg,3
+A759,BIRMON Make Up Kit,20,48,Make Up Kit Case with Vanity Box for Woman | Travel Beauty Kit and Accessories,assets/images/products/mypics/79.jpg,3
+A760,TYA Makeup Kit,18,80,Makeup Kit + 5 Pcs Makeup Brush + 2 Pc Blender Puff Combo,assets/images/products/mypics/80.jpg,3
+A761,Galaxy Watch4,25.2,50,Best Analog Watch,assets/images/products/mypics/81.jpg,2
+A762,Titan Watch,28.5,60,Blue Dial Analog Watch,assets/images/products/mypics/82.jpg,2
+A763,Dinner Set,10.3,75,Handmade Mehran Gold Rimmed Dinner Set (Set Of 16),assets/images/products/mypics/83.jpg,1
+A764,Pink Dinner Set,20,35,VERA Pink 27 Piece Dinner Set For 6,assets/images/products/mypics/84.jpg,1
+A765,Foosball,15,30,Hamleys Foosball Table Game 69cms for Kids age 5Y+,assets/images/products/mypics/85.jpg,1
+A766,Speed Car,12,48,LEGO Speed Champions McLaren Elva 76902 Building Kit (263 Pieces),assets/images/products/mypics/86.jpg,1
+A767, Ear Headphones,14,80,"boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers",assets/images/products/mypics/87.jpg,2
+A768,H&M Handbag,10,20,Women Pink Bowling Bag,assets/images/products/mypics/88.jpg,3
+A769,Titan Analog Watch,18,65,Tommy Hilfiger Watch for Men,assets/images/products/mypics/89.jpg,2
+A770,Vivo V23,25,53,"Vivo V23 5G 256 GB (Sunshine Gold, 12 GB RAM)",assets/images/products/mypics/90.jpg,2

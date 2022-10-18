@@ -1,0 +1,39 @@
+package traingle;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class angle {
+	public static void main(String[] args) {
+		int a[]=new int[3];
+		int i;
+		Scanner sc=new Scanner(System.in);
+		
+		for(i = 0; i < 3; i++){                  // do this 10 times
+		    a[i] = sc.nextInt();
+		    // read an integer from the user and store it into the array
+		     
+		}
+		Arrays.sort(a);
+		for(i=0;i<3;i++) {
+		System.out.println(a[i]);
+		checkAngle(a);
+	}
+		
+	
+	}
+	public static void checkAngle(int a[]) {
+		if(a[0]*a[0]+a[1]*a[1]==a[2]*a[2]) {
+			System.out.println("2");
+		}
+		else if(a[0]*a[0]+a[1]*a[1]>a[2]*a[2]) {
+			System.out.println("1");
+
+	}
+		else{
+			System.out.println("3");
+
+	}
+}
+
+

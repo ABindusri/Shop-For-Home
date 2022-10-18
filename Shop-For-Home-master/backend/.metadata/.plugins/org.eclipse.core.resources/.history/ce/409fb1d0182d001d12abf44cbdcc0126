@@ -1,0 +1,16 @@
+package traingle;
+
+import java.util.Scanner;
+
+public class angle {
+	public static void main(String[] args) {
+		int a[]=new int[3];
+		Scanner sc=new Scanner(System.in);
+	}
+	 public static void checkAngle() {
+		 
+	 }
+
+	}
+
+

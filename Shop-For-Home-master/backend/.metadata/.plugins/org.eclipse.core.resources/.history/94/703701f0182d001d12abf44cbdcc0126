@@ -1,0 +1,22 @@
+package traingle;
+
+import java.util.Scanner;
+
+public class angle {
+	public static void main(String[] args) {
+		int a[]=new int[3];
+		int i;
+		Scanner sc=new Scanner(System.in);
+		
+		for(i = 0; i < 3; i++){                  // do this 10 times
+		    a[i] = scan.nextInt();          // read an integer from the user and store it into the array
+		}
+	}
+	
+	 public static void checkAngle() {
+		 
+	 }
+
+	}
+
+
